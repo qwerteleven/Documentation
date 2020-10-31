@@ -1,1 +1,1 @@
-![](images/table 1-1.png?raw=true)
+![](EOI_machineLearning.jpg?raw=true)
